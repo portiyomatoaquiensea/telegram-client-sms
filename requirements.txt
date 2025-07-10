@@ -1,0 +1,6 @@
+python-dotenv
+uvicorn
+phonenumbers
+fastapi
+pydantic
+telethon
